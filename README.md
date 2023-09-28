@@ -1,2 +1,2 @@
 # TalkToAlexa
-Talking to my personal assistant
+A small script to create a personal assistant 
